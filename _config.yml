@@ -9,8 +9,8 @@ permalink:        pretty
 title:            'Unsolved Machine Learning'
 tagline:          ''
 description:      'A curated list of unanswered questions in machine learning.'
-url:              http://unsolved.ml
-baseurl:          http://unsolved.ml
+url:              http://unsolved.ml/
+baseurl:          http://unsolved.ml/
 
 author:
   name:           'Christopher Frederickson'
