@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-order: 1
+title: Directory
+order: 2
 ---
 
 TODO
